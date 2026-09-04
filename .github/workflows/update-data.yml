@@ -3,6 +3,8 @@ name: Update M3S data
 on:
   push:
     branches: [master]
+    paths-ignore:
+      - 'data/companies.json'
   workflow_dispatch:
   schedule:
     - cron: '17 5 * * 1-5'
@@ -16,6 +18,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -38,5 +42,6 @@ jobs:
             echo "No data changes"
           else
             git commit -m "Update M3S market data"
-            git push
+            git pull --rebase origin master
+            git push origin master
           fi
