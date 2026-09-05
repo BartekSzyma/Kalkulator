@@ -35,7 +35,7 @@ jobs:
         run: python update_data.py
 
       - name: Update USA data
-        run: python update_us_data.py
+        run: python update_us_data_v2.py
 
       - name: Commit refreshed data
         run: |
