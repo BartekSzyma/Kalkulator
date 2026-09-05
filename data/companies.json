@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T06:05:36.290843+00:00",
+  "generated_at": "2026-09-05T17:50:51.644192+00:00",
   "companies": {
     "CDR": {
       "ticker": "CDR",
@@ -18,7 +18,7 @@
         "long_debt": 0,
         "lease": 46106.0,
         "shares": 99910510.0,
-        "price": 232.7
+        "price": 232.0
       },
       "history": [
         {
@@ -159,7 +159,7 @@
         "long_debt": 0,
         "lease": 254.0,
         "shares": 1792500.0,
-        "price": 18.7
+        "price": 19.3
       },
       "history": [
         {
@@ -300,7 +300,7 @@
         "long_debt": 349591.0,
         "lease": 115957.0,
         "shares": 980400000.0,
-        "price": 35.84
+        "price": 35.98
       },
       "history": [
         {
@@ -441,7 +441,7 @@
         "long_debt": 3556291.0,
         "lease": 103653.0,
         "shares": 19543390.0,
-        "price": 399.3
+        "price": 395.0
       },
       "history": [
         {
@@ -582,7 +582,7 @@
         "long_debt": 584362.0,
         "lease": 69779.0,
         "shares": 15314400.0,
-        "price": 186.1
+        "price": 188.4
       },
       "history": [
         {
@@ -723,7 +723,7 @@
         "long_debt": 49953.0,
         "lease": 9528.0,
         "shares": 22223785.0,
-        "price": 123.2
+        "price": 125.8
       },
       "history": [
         {
@@ -1005,7 +1005,7 @@
         "long_debt": 85056.0,
         "lease": 325229.0,
         "shares": 130620000.0,
-        "price": 30.35
+        "price": 30.3
       },
       "history": [
         {
@@ -1287,7 +1287,7 @@
         "long_debt": 5306.0,
         "lease": 15173.0,
         "shares": 21242655.0,
-        "price": 36.0
+        "price": 36.1
       },
       "history": [
         {
@@ -1428,7 +1428,7 @@
         "long_debt": 44159.0,
         "lease": 6677.0,
         "shares": 10547063.0,
-        "price": 83.5
+        "price": 84.5
       },
       "history": [
         {
@@ -1558,34 +1558,20 @@
       "name": "IFIRMA SPÓŁKA AKCYJNA",
       "currency": "PLN",
       "current": {
-        "period": "2026/Q1",
-        "equity": 16827.0,
+        "period": "2026/Q2",
+        "equity": 17606.0,
         "goodwill": 0,
-        "net_profit_ttm": 11810.0,
-        "dividend_ttm": 11328.0,
+        "net_profit_ttm": 10893.0,
+        "dividend_ttm": 10496.0,
         "buyback_ttm": 0,
-        "cash": 2939.0,
+        "cash": 2169.0,
         "short_debt": 0,
         "long_debt": 0,
         "lease": 0,
         "shares": 6400000.0,
-        "price": 24.0
+        "price": 23.25
       },
       "history": [
-        {
-          "period": "2024/Q2",
-          "equity": 13349.0,
-          "goodwill": 0,
-          "net_profit_ttm": 6347.0,
-          "dividend_ttm": 7232.0,
-          "buyback_ttm": 0,
-          "cash": 2245.0,
-          "short_debt": 0,
-          "long_debt": 0,
-          "lease": 0,
-          "shares": 6400000.0,
-          "price": 23.9
-        },
         {
           "period": "2024/Q3",
           "equity": 13239.0,
@@ -1683,6 +1669,20 @@
           "lease": 0,
           "shares": 6400000.0,
           "price": 29.05
+        },
+        {
+          "period": "2026/Q2",
+          "equity": 17606.0,
+          "goodwill": 0,
+          "net_profit_ttm": 10893.0,
+          "dividend_ttm": 10496.0,
+          "buyback_ttm": 0,
+          "cash": 2169.0,
+          "short_debt": 0,
+          "long_debt": 0,
+          "lease": 0,
+          "shares": 6400000.0,
+          "price": 24.1
         }
       ],
       "warnings": [],
@@ -1710,7 +1710,7 @@
         "long_debt": 35930.0,
         "lease": 61021.0,
         "shares": 18473162.0,
-        "price": 13.46
+        "price": 13.6
       },
       "history": [
         {
@@ -1851,7 +1851,7 @@
         "long_debt": 22083.0,
         "lease": 42389.0,
         "shares": 25206644.0,
-        "price": 18.2
+        "price": 1.04
       },
       "history": [
         {
@@ -1992,7 +1992,7 @@
         "long_debt": 11294.0,
         "lease": 26728.0,
         "shares": 8529129.0,
-        "price": 323.2
+        "price": 331.4
       },
       "history": [
         {
@@ -2133,7 +2133,7 @@
         "long_debt": 63424.0,
         "lease": 139816.0,
         "shares": 25798422.0,
-        "price": 242.0
+        "price": 243.0
       },
       "history": [
         {
@@ -2274,7 +2274,7 @@
         "long_debt": 81172.0,
         "lease": 372486.0,
         "shares": 234455840.0,
-        "price": 5.44
+        "price": 1.07
       },
       "history": [
         {
@@ -2415,7 +2415,7 @@
         "long_debt": 1928000.0,
         "lease": 0,
         "shares": 200000000.0,
-        "price": 352.2
+        "price": 356.0
       },
       "history": [
         {
