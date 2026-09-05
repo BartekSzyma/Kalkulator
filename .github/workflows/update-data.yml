@@ -5,6 +5,7 @@ on:
     branches: [master]
     paths-ignore:
       - 'data/companies.json'
+      - 'data/us_companies.json'
   workflow_dispatch:
   schedule:
     - cron: '17 5 * * 1-5'
@@ -30,14 +31,17 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Scrape and normalize data
+      - name: Update Poland data
         run: python update_data.py
+
+      - name: Update USA data
+        run: python update_us_data.py
 
       - name: Commit refreshed data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/companies.json
+          git add data/companies.json data/us_companies.json
           if git diff --cached --quiet; then
             echo "No data changes"
           else
