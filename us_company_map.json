@@ -1,0 +1,21 @@
+{
+  "AAPL": {"cik": 320193, "name": "Apple Inc."},
+  "MSFT": {"cik": 789019, "name": "Microsoft Corp."},
+  "META": {"cik": 1326801, "name": "Meta Platforms, Inc."},
+  "GOOGL": {"cik": 1652044, "name": "Alphabet Inc."},
+  "AMZN": {"cik": 1018724, "name": "Amazon.com, Inc."},
+  "NVDA": {"cik": 1045810, "name": "NVIDIA Corp."},
+  "ISRG": {"cik": 1035267, "name": "Intuitive Surgical, Inc."},
+  "MCD": {"cik": 63908, "name": "McDonald's Corp."},
+  "SBUX": {"cik": 829224, "name": "Starbucks Corp."},
+  "COST": {"cik": 909832, "name": "Costco Wholesale Corp."},
+  "V": {"cik": 1403161, "name": "Visa Inc."},
+  "MA": {"cik": 1141391, "name": "Mastercard Inc."},
+  "NFLX": {"cik": 1065280, "name": "Netflix, Inc."},
+  "TSLA": {"cik": 1318605, "name": "Tesla, Inc."},
+  "AMD": {"cik": 2488, "name": "Advanced Micro Devices, Inc."},
+  "CRM": {"cik": 1108524, "name": "Salesforce, Inc."},
+  "ADBE": {"cik": 796343, "name": "Adobe Inc."},
+  "ORCL": {"cik": 1341439, "name": "Oracle Corp."},
+  "BKNG": {"cik": 1075531, "name": "Booking Holdings Inc."}
+}
