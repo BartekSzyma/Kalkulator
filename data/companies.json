@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T10:01:07.402221+00:00",
+  "generated_at": "2026-09-17T10:04:19.186299+00:00",
   "companies": {
     "CDR": {
       "ticker": "CDR",
@@ -18,7 +18,7 @@
         "long_debt": 0,
         "lease": 46106.0,
         "shares": 99910510.0,
-        "price": 237.2
+        "price": 240.4
       },
       "history": [
         {
@@ -159,7 +159,7 @@
         "long_debt": 0,
         "lease": 254.0,
         "shares": 1792500.0,
-        "price": 20.4
+        "price": 20.8
       },
       "history": [
         {
@@ -300,7 +300,7 @@
         "long_debt": 349591.0,
         "lease": 115957.0,
         "shares": 980400000.0,
-        "price": 35.92
+        "price": 35.97
       },
       "history": [
         {
@@ -441,7 +441,7 @@
         "long_debt": 3556291.0,
         "lease": 103653.0,
         "shares": 19543390.0,
-        "price": 382.5
+        "price": 386.8
       },
       "history": [
         {
@@ -582,7 +582,7 @@
         "long_debt": 584362.0,
         "lease": 69779.0,
         "shares": 15314400.0,
-        "price": 195.4
+        "price": 204.0
       },
       "history": [
         {
@@ -723,7 +723,7 @@
         "long_debt": 49953.0,
         "lease": 9528.0,
         "shares": 22223785.0,
-        "price": 123.2
+        "price": 127.0
       },
       "history": [
         {
@@ -853,34 +853,20 @@
       "name": "AUTO PARTNER SPÓŁKA AKCYJNA",
       "currency": "PLN",
       "current": {
-        "period": "2026/Q1",
-        "equity": 1476053.0,
+        "period": "2026/Q2",
+        "equity": 1550780.0,
         "goodwill": 0,
-        "net_profit_ttm": 221789.0,
+        "net_profit_ttm": 257991.0,
         "dividend_ttm": 19593.0,
         "buyback_ttm": 0,
-        "cash": 51609.0,
-        "short_debt": 91346.0,
-        "long_debt": 85056.0,
-        "lease": 325229.0,
+        "cash": 65998.0,
+        "short_debt": 94041.0,
+        "long_debt": 54042.0,
+        "lease": 316325.0,
         "shares": 130620000.0,
-        "price": 29.6
+        "price": 2.54
       },
       "history": [
-        {
-          "period": "2024/Q2",
-          "equity": 1123690.0,
-          "goodwill": 0,
-          "net_profit_ttm": 213695.0,
-          "dividend_ttm": 19593.0,
-          "buyback_ttm": 0,
-          "cash": 41776.0,
-          "short_debt": 111515.0,
-          "long_debt": 56566.0,
-          "lease": 203568.0,
-          "shares": 130620000.0,
-          "price": 24.0
-        },
         {
           "period": "2024/Q3",
           "equity": 1173753.0,
@@ -978,6 +964,20 @@
           "lease": 325229.0,
           "shares": 130620000.0,
           "price": 18.0
+        },
+        {
+          "period": "2026/Q2",
+          "equity": 1550780.0,
+          "goodwill": 0,
+          "net_profit_ttm": 257991.0,
+          "dividend_ttm": 19593.0,
+          "buyback_ttm": 0,
+          "cash": 65998.0,
+          "short_debt": 94041.0,
+          "long_debt": 54042.0,
+          "lease": 316325.0,
+          "shares": 130620000.0,
+          "price": 25.1
         }
       ],
       "warnings": [],
@@ -1005,7 +1005,7 @@
         "long_debt": 0,
         "lease": 39416.0,
         "shares": 33418193.0,
-        "price": 82.8
+        "price": 83.4
       },
       "history": [
         {
@@ -1146,7 +1146,7 @@
         "long_debt": 5306.0,
         "lease": 15173.0,
         "shares": 21242655.0,
-        "price": 31.0
+        "price": 31.8
       },
       "history": [
         {
@@ -1428,7 +1428,7 @@
         "long_debt": 0,
         "lease": 0,
         "shares": 6400000.0,
-        "price": 21.9
+        "price": 22.15
       },
       "history": [
         {
@@ -1569,7 +1569,7 @@
         "long_debt": 35930.0,
         "lease": 61021.0,
         "shares": 18473162.0,
-        "price": 13.07
+        "price": 13.05
       },
       "history": [
         {
@@ -1710,7 +1710,7 @@
         "long_debt": 19551.0,
         "lease": 42021.0,
         "shares": 25206644.0,
-        "price": 18.4
+        "price": 19.22
       },
       "history": [
         {
@@ -1851,7 +1851,7 @@
         "long_debt": 11294.0,
         "lease": 26728.0,
         "shares": 8529129.0,
-        "price": 333.8
+        "price": 341.2
       },
       "history": [
         {
@@ -1992,7 +1992,7 @@
         "long_debt": 63424.0,
         "lease": 139816.0,
         "shares": 25798422.0,
-        "price": 230.0
+        "price": 2.85
       },
       "history": [
         {
@@ -2133,7 +2133,7 @@
         "long_debt": 81172.0,
         "lease": 372486.0,
         "shares": 234455840.0,
-        "price": 5.5
+        "price": 5.28
       },
       "history": [
         {
@@ -2274,7 +2274,7 @@
         "long_debt": 1928000.0,
         "lease": 0,
         "shares": 200000000.0,
-        "price": 331.8
+        "price": 341.3
       },
       "history": [
         {
