@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-02T11:09:53.669302+00:00",
+  "generated_at": "2026-10-05T12:21:30.404650+00:00",
   "companies": {
     "CDR": {
       "ticker": "CDR",
       "slug": "CD-PROJEKT",
-      "name": "CD PROJEKT RED SPÓŁKA AKCYJNA",
+      "name": "CDR",
       "currency": "PLN",
       "current": {
         "period": "2026/Q2",
@@ -18,7 +18,7 @@
         "long_debt": 0,
         "lease": 46106.0,
         "shares": 99910510.0,
-        "price": 257.0
+        "price": 255.6
       },
       "history": [
         {
@@ -145,7 +145,7 @@
     "7FT": {
       "ticker": "7FT",
       "slug": "7FT",
-      "name": "7FIT SPÓŁKA AKCYJNA",
+      "name": "7FT",
       "currency": "PLN",
       "current": {
         "period": "2026/Q2",
@@ -159,7 +159,7 @@
         "long_debt": 0,
         "lease": 254.0,
         "shares": 1792500.0,
-        "price": 21.6
+        "price": 22.4
       },
       "history": [
         {
@@ -286,7 +286,7 @@
     "DNP": {
       "ticker": "DNP",
       "slug": "DNP",
-      "name": "DINO POLSKA SPÓŁKA AKCYJNA",
+      "name": "DNP",
       "currency": "PLN",
       "current": {
         "period": "2026/Q2",
@@ -300,7 +300,7 @@
         "long_debt": 349591.0,
         "lease": 115957.0,
         "shares": 980400000.0,
-        "price": 34.11
+        "price": 33.33
       },
       "history": [
         {
@@ -427,7 +427,7 @@
     "KRU": {
       "ticker": "KRU",
       "slug": "KRUK",
-      "name": "KRUK SPÓŁKA AKCYJNA",
+      "name": "KRU",
       "currency": "PLN",
       "current": {
         "period": "2026/Q2",
@@ -441,7 +441,7 @@
         "long_debt": 3556291.0,
         "lease": 103653.0,
         "shares": 19543390.0,
-        "price": 366.6
+        "price": 367.6
       },
       "history": [
         {
@@ -568,7 +568,7 @@
     "CBF": {
       "ticker": "CBF",
       "slug": "CBF",
-      "name": "CYBER_FOLKS SPÓŁKA AKCYJNA",
+      "name": "CBF",
       "currency": "PLN",
       "current": {
         "period": "2026/Q2",
@@ -582,7 +582,7 @@
         "long_debt": 584362.0,
         "lease": 69779.0,
         "shares": 15314400.0,
-        "price": 200.8
+        "price": 205.0
       },
       "history": [
         {
@@ -709,7 +709,7 @@
     "VRC": {
       "ticker": "VRC",
       "slug": "VRC",
-      "name": "VERCOM SPÓŁKA AKCYJNA",
+      "name": "VRC",
       "currency": "PLN",
       "current": {
         "period": "2026/Q2",
@@ -723,7 +723,7 @@
         "long_debt": 49953.0,
         "lease": 9528.0,
         "shares": 22223785.0,
-        "price": 128.0
+        "price": 129.6
       },
       "history": [
         {
@@ -850,7 +850,7 @@
     "APR": {
       "ticker": "APR",
       "slug": "APR",
-      "name": "AUTO PARTNER SPÓŁKA AKCYJNA",
+      "name": "APR",
       "currency": "PLN",
       "current": {
         "period": "2026/Q2",
@@ -864,7 +864,7 @@
         "long_debt": 54042.0,
         "lease": 316325.0,
         "shares": 130620000.0,
-        "price": 29.5
+        "price": 2.47
       },
       "history": [
         {
@@ -991,7 +991,7 @@
     "ABS": {
       "ticker": "ABS",
       "slug": "ASSECO-BUSINESS-SOLUTIONS",
-      "name": "ASSECO BUSINESS SOLUTIONS SPÓŁKA AKCYJNA",
+      "name": "ABS",
       "currency": "PLN",
       "current": {
         "period": "2026/Q2",
@@ -1005,7 +1005,7 @@
         "long_debt": 0,
         "lease": 39416.0,
         "shares": 33418193.0,
-        "price": 87.2
+        "price": 8.95
       },
       "history": [
         {
@@ -1132,7 +1132,7 @@
     "FRO": {
       "ticker": "FRO",
       "slug": "FERRO",
-      "name": "FERRO SPÓŁKA AKCYJNA",
+      "name": "FRO",
       "currency": "PLN",
       "current": {
         "period": "2026/Q2",
@@ -1146,7 +1146,7 @@
         "long_debt": 4729.0,
         "lease": 14488.0,
         "shares": 21242655.0,
-        "price": 29.8
+        "price": 28.8
       },
       "history": [
         {
@@ -1273,7 +1273,7 @@
     "DCR": {
       "ticker": "DCR",
       "slug": "DECORA",
-      "name": "DECORA SPÓŁKA AKCYJNA",
+      "name": "DCR",
       "currency": "PLN",
       "current": {
         "period": "2026/Q2",
@@ -1287,7 +1287,7 @@
         "long_debt": 44159.0,
         "lease": 6677.0,
         "shares": 10547063.0,
-        "price": 89.6
+        "price": 89.7
       },
       "history": [
         {
@@ -1414,7 +1414,7 @@
     "IFI": {
       "ticker": "IFI",
       "slug": "IFI",
-      "name": "IFIRMA SPÓŁKA AKCYJNA",
+      "name": "IFIRMA SA",
       "currency": "PLN",
       "current": {
         "period": "2026/Q2",
@@ -1428,7 +1428,7 @@
         "long_debt": 0,
         "lease": 0,
         "shares": 6400000.0,
-        "price": 23.05
+        "price": 22.3
       },
       "history": [
         {
@@ -1555,7 +1555,7 @@
     "WTN": {
       "ticker": "WTN",
       "slug": "WTN",
-      "name": "WITTCHEN SPÓŁKA AKCYJNA",
+      "name": "WTN",
       "currency": "PLN",
       "current": {
         "period": "2026/Q2",
@@ -1569,7 +1569,7 @@
         "long_debt": 0,
         "lease": 59320.0,
         "shares": 18473162.0,
-        "price": 11.71
+        "price": 11.39
       },
       "history": [
         {
@@ -1696,7 +1696,7 @@
     "AMB": {
       "ticker": "AMB",
       "slug": "AMBRA",
-      "name": "AMBRA SPÓŁKA AKCYJNA",
+      "name": "AMB",
       "currency": "PLN",
       "current": {
         "period": "2026/Q4",
@@ -1710,7 +1710,7 @@
         "long_debt": 19551.0,
         "lease": 42021.0,
         "shares": 25206644.0,
-        "price": 19.8
+        "price": 19.98
       },
       "history": [
         {
@@ -1837,7 +1837,7 @@
     "SNT": {
       "ticker": "SNT",
       "slug": "SYNEKTIK",
-      "name": "SYNEKTIK SPÓŁKA AKCYJNA",
+      "name": "SNT",
       "currency": "PLN",
       "current": {
         "period": "2026/Q3",
@@ -1851,7 +1851,7 @@
         "long_debt": 11294.0,
         "lease": 26728.0,
         "shares": 8529129.0,
-        "price": 341.8
+        "price": 337.6
       },
       "history": [
         {
@@ -1978,7 +1978,7 @@
     "DOM": {
       "ticker": "DOM",
       "slug": "DOM-DEVELOPMENT",
-      "name": "DOM DEVELOPMENT SPÓŁKA AKCYJNA",
+      "name": "DOM",
       "currency": "PLN",
       "current": {
         "period": "2026/Q2",
@@ -1992,7 +1992,7 @@
         "long_debt": 63424.0,
         "lease": 139816.0,
         "shares": 25798422.0,
-        "price": 2.79
+        "price": 228.0
       },
       "history": [
         {
@@ -2119,7 +2119,7 @@
     "VRG": {
       "ticker": "VRG",
       "slug": "VRG",
-      "name": "VISTULA RETAIL GROUP SPÓŁKA AKCYJNA",
+      "name": "VRG",
       "currency": "PLN",
       "current": {
         "period": "2026/Q2",
@@ -2133,7 +2133,7 @@
         "long_debt": 81172.0,
         "lease": 372486.0,
         "shares": 234455840.0,
-        "price": 5.1
+        "price": 5.14
       },
       "history": [
         {
@@ -2260,7 +2260,7 @@
     "KGH": {
       "ticker": "KGH",
       "slug": "KGHM",
-      "name": "KGHM POLSKA MIEDŹ SPÓŁKA AKCYJNA",
+      "name": "KGHM POLSKA MIEDZ SA",
       "currency": "PLN",
       "current": {
         "period": "2026/Q2",
@@ -2274,7 +2274,7 @@
         "long_debt": 1928000.0,
         "lease": 0,
         "shares": 200000000.0,
-        "price": 330.3
+        "price": 341.1
       },
       "history": [
         {
