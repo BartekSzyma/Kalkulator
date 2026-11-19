@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T14:14:00.659789+00:00",
+  "generated_at": "2026-11-19T14:29:51.741674+00:00",
   "companies": {
     "CDR": {
       "ticker": "CDR",
@@ -18,7 +18,7 @@
         "long_debt": 0,
         "lease": 46106.0,
         "shares": 99910510.0,
-        "price": 281.7
+        "price": 275.5
       },
       "history": [
         {
@@ -159,7 +159,7 @@
         "long_debt": 0,
         "lease": 129.0,
         "shares": 1792500.0,
-        "price": 21.8
+        "price": 3.48
       },
       "history": [
         {
@@ -300,7 +300,7 @@
         "long_debt": 420789.0,
         "lease": 121196.0,
         "shares": 980400000.0,
-        "price": 37.28
+        "price": 37.26
       },
       "history": [
         {
@@ -441,7 +441,7 @@
         "long_debt": 3572005.0,
         "lease": 108991.0,
         "shares": 19543390.0,
-        "price": 320.1
+        "price": 317.0
       },
       "history": [
         {
@@ -582,7 +582,7 @@
         "long_debt": 564903.0,
         "lease": 65259.0,
         "shares": 18529565.0,
-        "price": 215.0
+        "price": 215.6
       },
       "history": [
         {
@@ -853,34 +853,20 @@
       "name": "APR",
       "currency": "PLN",
       "current": {
-        "period": "2026/Q2",
-        "equity": 1550780.0,
+        "period": "2026/Q3",
+        "equity": 1637798.0,
         "goodwill": 0,
-        "net_profit_ttm": 257991.0,
+        "net_profit_ttm": 295657.0,
         "dividend_ttm": 19593.0,
         "buyback_ttm": 0,
-        "cash": 65998.0,
-        "short_debt": 94041.0,
-        "long_debt": 54042.0,
-        "lease": 316325.0,
+        "cash": 124337.0,
+        "short_debt": 83299.0,
+        "long_debt": 49274.0,
+        "lease": 337528.0,
         "shares": 130620000.0,
-        "price": 29.35
+        "price": 28.85
       },
       "history": [
-        {
-          "period": "2024/Q3",
-          "equity": 1173753.0,
-          "goodwill": 0,
-          "net_profit_ttm": 198191.0,
-          "dividend_ttm": 19593.0,
-          "buyback_ttm": 0,
-          "cash": 48830.0,
-          "short_debt": 138229.0,
-          "long_debt": 122629.0,
-          "lease": 204644.0,
-          "shares": 130620000.0,
-          "price": 23.0
-        },
         {
           "period": "2024/Q4",
           "equity": 1234293.0,
@@ -978,6 +964,20 @@
           "lease": 316325.0,
           "shares": 130620000.0,
           "price": 25.1
+        },
+        {
+          "period": "2026/Q3",
+          "equity": 1637798.0,
+          "goodwill": 0,
+          "net_profit_ttm": 295657.0,
+          "dividend_ttm": 19593.0,
+          "buyback_ttm": 0,
+          "cash": 124337.0,
+          "short_debt": 83299.0,
+          "long_debt": 49274.0,
+          "lease": 337528.0,
+          "shares": 130620000.0,
+          "price": 29.95
         }
       ],
       "warnings": [],
@@ -1005,7 +1005,7 @@
         "long_debt": 0,
         "lease": 37019.0,
         "shares": 33418193.0,
-        "price": 84.0
+        "price": 84.2
       },
       "history": [
         {
@@ -1146,7 +1146,7 @@
         "long_debt": 4729.0,
         "lease": 14488.0,
         "shares": 21242655.0,
-        "price": 28.6
+        "price": 28.7
       },
       "history": [
         {
@@ -1287,7 +1287,7 @@
         "long_debt": 63956.0,
         "lease": 6409.0,
         "shares": 10547063.0,
-        "price": 71.7
+        "price": 1.9
       },
       "history": [
         {
@@ -1428,7 +1428,7 @@
         "long_debt": 0,
         "lease": 0,
         "shares": 6400000.0,
-        "price": 18.72
+        "price": 18.5
       },
       "history": [
         {
@@ -1569,7 +1569,7 @@
         "long_debt": 0,
         "lease": 59320.0,
         "shares": 18473162.0,
-        "price": 10.72
+        "price": 10.55
       },
       "history": [
         {
@@ -1710,7 +1710,7 @@
         "long_debt": 22016.0,
         "lease": 40277.0,
         "shares": 25206644.0,
-        "price": 17.7
+        "price": 17.8
       },
       "history": [
         {
@@ -1851,7 +1851,7 @@
         "long_debt": 12960.0,
         "lease": 23545.0,
         "shares": 8529129.0,
-        "price": 314.6
+        "price": 320.8
       },
       "history": [
         {
@@ -1981,34 +1981,20 @@
       "name": "DOM",
       "currency": "PLN",
       "current": {
-        "period": "2026/Q2",
-        "equity": 2065647.0,
+        "period": "2026/Q3",
+        "equity": 2247235.0,
         "goodwill": 0,
-        "net_profit_ttm": 667010.0,
+        "net_profit_ttm": 713193.0,
         "dividend_ttm": 361178.0,
         "buyback_ttm": 0,
-        "cash": 223787.0,
+        "cash": 246273.0,
         "short_debt": 0,
-        "long_debt": 63424.0,
-        "lease": 139816.0,
+        "long_debt": 50000.0,
+        "lease": 149951.0,
         "shares": 25798422.0,
-        "price": 244.5
+        "price": 246.5
       },
       "history": [
-        {
-          "period": "2024/Q3",
-          "equity": 1581238.0,
-          "goodwill": 0,
-          "net_profit_ttm": 495827.0,
-          "dividend_ttm": 309581.0,
-          "buyback_ttm": 0,
-          "cash": 298289.0,
-          "short_debt": 0,
-          "long_debt": 0,
-          "lease": 126770.0,
-          "shares": 25798422.0,
-          "price": 190.4
-        },
         {
           "period": "2024/Q4",
           "equity": 1701662.0,
@@ -2106,6 +2092,20 @@
           "lease": 139816.0,
           "shares": 25798422.0,
           "price": 239.0
+        },
+        {
+          "period": "2026/Q3",
+          "equity": 2247235.0,
+          "goodwill": 0,
+          "net_profit_ttm": 713193.0,
+          "dividend_ttm": 361178.0,
+          "buyback_ttm": 0,
+          "cash": 246273.0,
+          "short_debt": 0,
+          "long_debt": 50000.0,
+          "lease": 149951.0,
+          "shares": 25798422.0,
+          "price": 228.5
         }
       ],
       "warnings": [],
@@ -2133,7 +2133,7 @@
         "long_debt": 81172.0,
         "lease": 372486.0,
         "shares": 234455840.0,
-        "price": 5.28
+        "price": 5.22
       },
       "history": [
         {
@@ -2263,34 +2263,20 @@
       "name": "KGHM POLSKA MIEDZ SA",
       "currency": "PLN",
       "current": {
-        "period": "2026/Q2",
-        "equity": 39742000.0,
+        "period": "2026/Q3",
+        "equity": 41589000.0,
         "goodwill": 0,
-        "net_profit_ttm": 8687000.0,
-        "dividend_ttm": 0,
+        "net_profit_ttm": 10191000.0,
+        "dividend_ttm": 300000.0,
         "buyback_ttm": 0,
-        "cash": 1217000.0,
-        "short_debt": 1367000.0,
-        "long_debt": 1928000.0,
+        "cash": 1344000.0,
+        "short_debt": 575000.0,
+        "long_debt": 1885000.0,
         "lease": 0,
         "shares": 200000000.0,
-        "price": 252.3
+        "price": 259.4
       },
       "history": [
-        {
-          "period": "2024/Q3",
-          "equity": 29328000.0,
-          "goodwill": 0,
-          "net_profit_ttm": -3213000.0,
-          "dividend_ttm": 300000.0,
-          "buyback_ttm": 0,
-          "cash": 1112000.0,
-          "short_debt": 1223000.0,
-          "long_debt": 4953000.0,
-          "lease": 0,
-          "shares": 200000000.0,
-          "price": 159.35
-        },
         {
           "period": "2024/Q4",
           "equity": 30990000.0,
@@ -2388,6 +2374,20 @@
           "lease": 0,
           "shares": 200000000.0,
           "price": 331.25
+        },
+        {
+          "period": "2026/Q3",
+          "equity": 41589000.0,
+          "goodwill": 0,
+          "net_profit_ttm": 10191000.0,
+          "dividend_ttm": 300000.0,
+          "buyback_ttm": 0,
+          "cash": 1344000.0,
+          "short_debt": 575000.0,
+          "long_debt": 1885000.0,
+          "lease": 0,
+          "shares": 200000000.0,
+          "price": 329.55
         }
       ],
       "warnings": [],
